@@ -1,0 +1,83 @@
+const sectionData =[
+{
+	id : 1,
+	color: "#22FAF3", 
+	text: "Lorem ipsum dolor sit amet, consectetur."
+
+},
+{
+	id : 2,
+	color: "#8CF9B2", 
+	text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error aliquid reprehenderit expedita odio beatae est."
+
+},
+{
+	id : 3,
+	color: "#EE667A", 
+	text: "Lorem ipsum dolor sit amet, consectetur."
+
+},
+{
+	id : 4,
+	color: "#FAF77B", 
+	text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis quaerat suscipit ad."
+
+},
+{
+	id : 5,
+	color: '#e6ccff', 
+	text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem nihil alias amet dolores fuga totam sequi a cupiditate ipsa voluptas id facilis nobis.'
+
+},
+{
+	id : 6,
+	color: '#22FAF3', 
+	text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem ut debitis dolorum earum expedita eveniet voluptatem quibusdam facere eos numquam commodi ad iusto laboriosam rerum aliquam.'
+
+},
+{
+	id : 7,
+	color: '#FFA500', 
+	text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+
+},
+{
+	id : 8,
+	color: '#8CF9B2', 
+	text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat architecto quis tenetur fugiat veniam iste molestiae fuga labore!'
+
+},
+{
+	id : 9,
+	color: '#FAF77B', 
+	text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit accusamus tempore at porro officia rerum est impedit ea ipsa tenetur. Labore libero hic error sunt laborum expedita.'
+
+},
+{
+	id : 10,
+	color: '#EE667A', 
+	text: 'Lorem ipsum dolor sit amet, consectetur.'
+
+},
+{
+	id : 11,
+	color: '#FFA500', 
+	text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima asperiores eveniet vero velit eligendi aliquid in.'
+
+},
+{
+	id : 12,
+	color: '#e6ccff', 
+	text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus dolorem maxime minima animi cum.'
+
+},
+{
+	id : 13,
+	color: '#79ff4d', 
+	text: 'Lorem ipsum dolor sit amet, consectetur.'
+
+}
+
+]
+
+export default sectionData
